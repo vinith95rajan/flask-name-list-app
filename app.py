@@ -4,7 +4,7 @@ app = Flask(__name__)
 
 # Backend Table (List of Names)
 names_table = [
-    "Shanmugapriya", "BOB", "Charlie", "David", "Emma",
+    "Shanmugapriya", "VINITH", "Charlie", "David", "Emma",
     "Frank", "Grace", "Hannah", "Ian", "Jack"
 ]
 
